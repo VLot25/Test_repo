@@ -1,4 +1,4 @@
-//const date = require('./date')
+const date = require('./date')
 
 function foo() {
         const dt = date.bar('hh:mm DD/MM/YYYY');
